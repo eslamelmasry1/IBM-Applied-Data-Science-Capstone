@@ -1,4 +1,4 @@
-**IBM Applied Data Science Capstone**
+****IBM Applied Data Science Capstone****
 
 **Introduction**
 This Applied Data Science Capstone Project focuses on predicting the successful landing of the SpaceX Falcon 9 rocket’s first stage. SpaceX has disrupted the space launch industry by offering launches at approximately $62 million—significantly below the industry average of over $165 million—primarily through the reusability of its rocket components. Accurately predicting first-stage landing success enables precise launch cost estimation, offering a strategic advantage to companies competing against SpaceX.
